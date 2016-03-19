@@ -14,4 +14,4 @@ This module is currently empty. Use the C<Role::TinyCommons::*> directly.
 =head1 SEE ALSO
 
 Role::TinyCommons is just like L<Role::Commons>, except the roles are using
-L<Role::Tiny> instead of L<Moo::Role>>
+L<Role::Tiny> instead of L<Moo::Role>
